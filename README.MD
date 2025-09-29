@@ -1,122 +1,49 @@
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-## ⚡ About Me
-<br />
-<div>
-  As a Full-Stack & Blockchain developer, I really enjoy connecting with people who bring fresh ideas and strong energy to a project. Over the years, I’ve learned that the best outcomes come from teams that are curious, creative, and willing to try new things. Whenever I get the chance to join such a team, I do my best to support it with experience, skill, and steady commitment.
+###
 
-I’m always excited to see where the next collaboration leads.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OXTimoA&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OXTimoA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+###
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-## ⚡ I Code With
-<br />
+###
 
-<table align="center">
-  <tr>
-      <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="45" height="45" />
-        <br>Javascript
-      </td>
-      <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Typescript" width="45" height="45" />
-        <br>Typescript
-      </td>
-      <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" />
-        <br>React
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
-        <br>Next.js
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
-        <br>Vue
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
-        <br>Nuxt.js
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
-        <br>Three.js
-      </td>
-    </tr>
-    <tr>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
-            <br>Solidity
-        </td>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
-            <br>Rust
-          </td>
-        </td>
-        <td align="center" width="90">
-          <img src="https://encrypted-tbn0.gstatic.com//images?q=tbn:ANd9GcSuRdb4_focjsWqkyliwr0HODbFhoxKKBl_DXQKFvVesy6RGLIdnYZoL-BIkH6KF0x-9tk&usqp=CAU" width="45" height="45" alt="Move" />
-            <br>Move
-          </td>
-        </td>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go" />
-            <br>Go
-          </td>
-        </td>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C++" />
-            <br>C++
-          </td>
-        </td>
-        <td align="center" width="90">
-          <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45" alt="Python" />
-            <br>Python
-          </td>
-        </td>
-        <td align="center" width="90">
-          <img src="https://encrypted-tbn0.gstatic.com//images?q=tbn:ANd9GcTpog5LW3Oy837CzTY5ngVJP8BGPpQ8LF4XpQ&s" width="45" height="45" alt="Haskell" />
-            <br>Haskell
-          </td>
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="90">
-          <img src="./icons/ethereum.png" width="45" height="45" alt="Ethereum" />
-             <br>Ethereum
-        </td>
-        <td align="center" width="90">
-          <img src="./icons/solana.png" height="45" alt="Solana">
-              <br>Solana
-        </td>
-        <td align="center" width="90">
-          <img src="./icons/sui.png" height="45" alt="Sui">
-              <br>Sui
-        </td>
-        <td align="center" width="90">
-          <img src="./icons/cosmos.png" height="45" alt="Cosmos">
-              <br>Cosmos
-        </td>
-        <td align="center" width="90">
-          <img src="./icons/Bitcoin.svg" height="45" alt="Bitcoin">
-              <br>Bitcoin
-        </td>
-        <td align="center" width="90">
-          <img src="./icons/polkadot.png" height="45" alt="Polkadot">
-              <br>Polkadot
-        </td>
-        <td align="center" width="90">
-          <img src="https://encrypted-tbn0.gstatic.com//images?q=tbn:ANd9GcS5yHjHrpuYeDRjEnF_slrmpvFa3FBy-aoLAA&s" height="45" alt="Cardano">
-              <br>Cardano
-        </td>
-    </tr>
-</table>
-
-<p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
-
-## ⚡ Commit History
-<div align=center>
-<!-- 🐍 GitHub Contribution Snake -->
-<img src="https://raw.githubusercontent.com/infiniteriseup/infiniteriseup/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
-<p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/OXTimoA/OXTimoA/output/snake.svg" alt="Snake animation" />
+
+###
