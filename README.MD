@@ -98,7 +98,7 @@ I’m always excited to see where the next collaboration leads.
               <br>Cosmos
         </td>
         <td align="center" width="90">
-          <img src="./icons/bitcoin.svg" height="45" alt="Bitcoin">
+          <img src="./icons/Bitcoin.svg" height="45" alt="Bitcoin">
               <br>Bitcoin
         </td>
         <td align="center" width="90">
