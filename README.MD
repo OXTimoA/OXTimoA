@@ -113,10 +113,3 @@ I’m always excited to see where the next collaboration leads.
 </table>
 
 <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
-
-## ⚡ Commit History
-<div align=center>
-<!-- 🐍 GitHub Contribution Snake -->
-<img src="https://raw.githubusercontent.com/OXTimoA/OXTimoA/output/snake.svg" alt="Snake animation" />
-</div>
-<p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
